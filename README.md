@@ -1,3 +1,34 @@
+# ✅ Laravel To-Do List App
+
+A simple and clean **To-Do List application** built using the Laravel framework. This project demonstrates basic CRUD operations, Blade templating, routing, and Laravel MVC structure. Ideal for beginners learning Laravel or practicing full-stack development.
+
+---
+
+## 🔧 Features
+
+- ✅ Add new tasks
+- ✅ View all tasks
+- ✅ Mark tasks as completed or uncompleted
+- ✅ Delete tasks
+- 🔒 User Authentication (Laravel default)
+- ❌ (Optional) Edit tasks *(not implemented yet)*
+- ❌ (Optional) Filter/search tasks *(not implemented yet)*
+
+---
+
+## 🛠️ Tech Stack
+
+- **Backend**: [Laravel 10+](https://laravel.com/)
+- **Frontend**: Blade Templates, Bootstrap
+- **Database**: MySQL or SQLite (your choice)
+- **Authentication**: Laravel Breeze / built-in Auth (optional)
+
+---
+
+
+
+
+
 <p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400" alt="Laravel Logo"></a></p>
 
 <p align="center">
